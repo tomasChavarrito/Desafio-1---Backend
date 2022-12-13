@@ -42,10 +42,10 @@ class ProductManager {
         }
     };
     
-    const myProductManager = new ProductManager();
-    console.log(myProductManager.getProducts());
-    console.log(myProductManager.addProducts( 'Camiseta Argentina Titular','Esta camiseta es la diseñada por Adidas para la Seleccion Argentina de Futbol para los partidos de titular en el Mundial de Qatar 2022', 24000, 'Sin imagen', 'cst009', 600));
-    console.log(myProductManager.addProducts('Camiseta Argentina Suplente', 'Esta camiseta es la diseñada por Adidas para la Seleccion Argentina de Futbol para los partidos de visitante en el Mundial de Qatar 2022', 22000, 'Sin imagen', 'csa010', 600));
-    console.log(myProductManager.addProducts( 'Camiseta Argentina Training','Esta camiseta es la diseñada por Adidas para la Seleccion Argentina de Futbol para los entrenamientos del Mundial de Qatar 2022', 15000, 'Sin imagen', 'cse002', 300));
-    console.log(myProductManager.getProducts());
-    console.log(myProductManager.getProductsById(1));
+   // const myProductManager = new ProductManager();
+   // console.log(myProductManager.getProducts());
+   // console.log(myProductManager.addProducts( 'Camiseta Argentina Titular','Esta camiseta es la diseñada por Adidas para la Seleccion Argentina de Futbol para los partidos de titular en el Mundial de Qatar 2022', 24000, 'Sin imagen', 'cst009', 600));
+   // console.log(myProductManager.addProducts('Camiseta Argentina Suplente', 'Esta camiseta es la diseñada por Adidas para la Seleccion Argentina de Futbol para los partidos de visitante en el Mundial de Qatar 2022', 22000, 'Sin imagen', 'csa010', 600));
+   // console.log(myProductManager.addProducts( 'Camiseta Argentina Training','Esta camiseta es la diseñada por Adidas para la Seleccion Argentina de Futbol para los entrenamientos del Mundial de Qatar 2022', 15000, 'Sin imagen', 'cse002', 300));
+   // console.log(myProductManager.getProducts());
+   // console.log(myProductManager.getProductsById(1));
