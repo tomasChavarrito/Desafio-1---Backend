@@ -1,0 +1,26 @@
+{
+  "name": "desafio1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomasChavarrito/Desafio-1---Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomasChavarrito/Desafio-1---Backend/issues"
+  },
+  "homepage": "https://github.com/tomasChavarrito/Desafio-1---Backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

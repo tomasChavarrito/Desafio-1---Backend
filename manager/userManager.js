@@ -101,6 +101,25 @@ class UserManager{
             console.log(error)
         }
     }
+
+    async deleteProduct(id) {
+        try{
+            const savedProducts = await this.getProducts();
+            const targetProduct = await this.getProductById(id)
+            const filteredList = savedProducts.filter(prod => prod.id !== id)
+            if(!targetProduct){
+                throw new Error('ERROR: No se encuentra la id especificada')
+            }
+            else{
+                const productListString = JSON.stringify(filteredList, null, '\t')
+                await fs.writeFile(this.path, productListString)
+                console.log(`${targetProduct.title} eliminado`)
+            }
+        }
+        catch(error){
+            console.log(error.message)
+        }
+    }
 }
 
 
