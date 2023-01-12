@@ -1,0 +1,143 @@
+[
+    {
+        "id": 1,
+        "title":"Camiseta Argentina Titular",
+        "desc":"Esta camiseta es la diseñada por Adidas para la Seleccion Argentina de Futbol para los partidos de titular en el Mundial de Qatar 2022",
+        "price":"AR$24000",
+        "codigo": "cts009",
+        "stock":"600",
+        "status": true,
+        "category": "camisetas",
+        "thumbnail": [
+                "/public/img/CamisetaArgTitFrente.jpg",
+                "/public/img/CamisetaArgTitEspalda.jpg"
+        ]
+    },
+
+    {
+        "id": 2,
+        "title":"Camiseta Argentina Suplente",
+        "desc":"Esta camiseta es la diseñada por Adidas para la Seleccion Argentina de Futbol para los partidos de visitante en el Mundial de Qatar 2022",
+        "price":"AR$24000",
+        "codigo": "css010",
+        "stock":"600",
+        "status": true,
+        "category": "camisetas",
+        "thumbnail": [
+                "/public/img/CamisetaVisitArgFrente.jpg",
+                "/public/img/CamisetaVisitArgEspalda.jpg"
+        ]
+    },
+
+    {
+        "id": 3,
+        "title":"Camiseta Belgica Titular",
+        "desc":"Esta camiseta es la diseñada por Adidas para la Seleccion Belga de Futbol para el Mundial de Qatar 2022",
+        "price":"AR$18000",
+        "codigo": "ces011",
+        "stock":"600",
+        "status": true,
+        "category": "camisetas",
+        "thumbnail": [
+                "/public/img/CamisetaBelgTitular.jpg"
+        ]
+    },
+
+    {
+        "id": 4,
+        "title":"Camiseta Brasil Titular",
+        "desc":"Esta camiseta es la diseñada por Nike para la Seleccion Brasilera de Futbol para el Mundial de Qatar 2022",
+        "price":"AR$18000",
+        "codigo": "ctb044",
+        "stock":"100",
+        "status": true,
+        "category": "camisetas",
+        "thumbnail": [
+                "/public/img/CamisetaBrasilTit.jpg"
+        ]
+    },
+
+    {
+        "id": 5,
+        "title":"Camiseta Francia Titular",
+        "desc":"Esta camiseta es la diseñada por Nike para la Seleccion Francesa de Futbol para el Mundial de Qatar 2022",
+        "price":"AR$18000",
+        "codigo": "ctf045",
+        "stock":"100",
+        "status": true,
+        "category": "camisetas",
+        "thumbnail": [
+                "/public/img/CamisetaFranciaTitular.jpg"
+        ]
+    },
+
+    {
+        "id": 6,
+        "title":"Camiseta Corea del Sur Suplente",
+        "desc":"Esta camiseta es la diseñada por Nike para la Seleccion Surcoreana de Futbol para el Mundial de Qatar 2022",
+        "price":"AR$16000",
+        "codigo": "cct046",
+        "stock":"100",
+        "status": true,
+        "category": "camisetas",
+        "thumbnail": [
+                "/public/img/CamisetaCoreaSuplente.jpg"
+        ]
+    },
+
+    {
+        "id": 7,
+        "title":"Camiseta Japon Titular",
+        "desc":"Esta camiseta es la diseñada por Adidas para la Seleccion Japonesa de Futbol para el Mundial de Qatar 2022",
+        "price":"AR$16000",
+        "codigo": "ctj047",
+        "stock":"100",
+        "status": true,
+        "category": "camisetas",
+        "thumbnail": [
+                "/public/img/CamisetaJaponTit.jpg"
+        ]
+    },
+
+    {
+        "id": 8,
+        "title":"Camiseta Portugal Titular",
+        "desc":"Esta camiseta es la diseñada por Nike para la Seleccion Portuguesa de Futbol para el Mundial de Qatar 2022",
+        "price":"AR$17500",
+        "codigo": "ctp048",
+        "stock":"220",
+        "status": true,
+        "category": "camisetas",
+        "thumbnail": [
+                "/public/img/CamisetaPortugalTit.jpg"
+        ]
+    },
+
+    {
+        "id": 9,
+        "title":"Camiseta Marruecos Suplente",
+        "desc":"Esta camiseta es la diseñada por Puma para la Seleccion Marroqui de Futbol para el Mundial de Qatar 2022",
+        "price":"AR$15500",
+        "codigo": "ctm052",
+        "stock":"200",
+        "status": true,
+        "category": "camisetas",
+        "thumbnail": [
+                "/public/img/CamisetaMarruecosSuplente.jpg"
+        ]
+    },
+
+    {
+        "id": 10,
+        "title":"Camiseta Qatar Titular",
+        "desc":"Esta camiseta es la diseñada por Nike para la Seleccion Qatari de Futbol para el Mundial de Qatar 2022",
+        "price":"AR$16000",
+        "codigo": "ctq088",
+        "stock":"100",
+        "status": true,
+        "category": "camisetas",
+        "thumbnail": [
+                "/public/img/CamisetaQatarTitular.jpg"
+        ]
+    }
+]
